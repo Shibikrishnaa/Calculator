@@ -1,0 +1,18 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator app built with Html,Css and JavaScript For Desktop",
+  "main": "index.html",
+  "scripts": {
+    "start":"index.html",
+    "test": "npm start"
+  },
+  "keywords": [
+    "Calculator",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Shibikrishnaa",
+  "license": "MIT"
+}
